@@ -1,0 +1,31 @@
+/*ウインドウの分割方向を逆に切り替えるスクリプト
+
+＊分割方向の切り替え方
+  上下分割→分割無し→左右分割→上下分割→・・・
+  
+＊連絡先
+  http://d.hatena.ne.jp/ohtorii/
+  https://twitter.com/ohtorii
+*/
+if(splitmode==0){
+	//分割無し→左右分割
+	split 2;
+	endmacro;
+}
+if(splitmode==1){
+	//上下分割→分割なし
+	split 1;
+	endmacro;
+}
+if(splitmode==2){
+	//左右分割→上下分割
+	split 1;
+	endmacro;
+}
+if(splitmode==3){
+	//V7.xx以前の旧式の分割
+	//どの様な分割方法なのか分からないのでとりあえず無視する。
+	endmacro;
+}
+
+endmacro;
