@@ -38,8 +38,8 @@
 # ファイル一覧
 |ファイル名|説明|
 |:---|:---|
-|cmd_switch_window_split.mac|分割方向を切り替えるマクロ|
-|cmd_switch_window_split_reverse.mac|分割方向を逆順に切り替えるマクロ|
+|macro/cmd_switch_window_split.mac|分割方向を切り替えるマクロ|
+|macro/cmd_switch_window_split_reverse.mac|分割方向を逆順に切り替えるマクロ|
 
 # 動作環境
 秀丸エディタ ver 8.00以降
