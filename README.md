@@ -1,44 +1,46 @@
-GŠÛƒGƒfƒBƒ^‚ÌƒEƒCƒ“ƒhƒE•ªŠ„•ûŒü‚ðØ‚è‘Ö‚¦‚éƒ}ƒNƒ
+ï»¿ç§€ä¸¸ã‚¨ãƒ‡ã‚£ã‚¿ã®ã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²æ–¹å‘ã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹ãƒžã‚¯ãƒ­
 =================
-# “Á’¥
-GŠÛƒGƒfƒBƒ^‚Å‚ÍuƒEƒCƒ“ƒhƒE•ªŠ„ã‰ºEƒEƒCƒ“ƒhƒE•ªŠ„¶‰Ev‚ÉA
-‚»‚ê‚¼‚êˆÙ‚È‚éƒVƒ‡[ƒgƒJƒbƒgƒL[‚ªŠ„‚è“–‚Ä‚ç‚ê‚Ä‚¢‚Ü‚·B
-|‹@”\|ƒVƒ‡[ƒgƒJƒbƒgƒL[|
+# ç‰¹å¾´
+ç§€ä¸¸ã‚¨ãƒ‡ã‚£ã‚¿ã§ã¯ã€Œã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²ä¸Šä¸‹ãƒ»ã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²å·¦å³ã€ã«ã€
+ãã‚Œãžã‚Œç•°ãªã‚‹ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚­ãƒ¼ãŒå‰²ã‚Šå½“ã¦ã‚‰ã‚Œã¦ã„ã¾ã™ã€‚
+|æ©Ÿèƒ½|ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚­ãƒ¼|
 |:---|:---|
-|ƒEƒCƒ“ƒhƒE•ªŠ„ã‰º|Alt¨W¨D|
-|ƒEƒCƒ“ƒhƒE•ªŠ„¶‰E|Alt¨W¨M|
+|ã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²ä¸Šä¸‹|Altâ†’Wâ†’D|
+|ã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²å·¦å³|Altâ†’Wâ†’M|
 
-–{ƒ}ƒNƒ‚Å‚Í“¯ˆêƒVƒ‡[ƒgƒJƒbƒgƒL[‚ÅuƒEƒCƒ“ƒhƒE•ªŠ„ã‰ºEƒEƒCƒ“ƒhƒE•ªŠ„¶‰Ev‚ðØ‚è‘Ö‚¦‚é‚±‚Æ‚ªo—ˆ‚Ü‚·B
-‚»‚Ì‚½‚ßAƒEƒCƒ“ƒhƒE•ªŠ„‚Ì‘€ì‚ª‚æ‚è’Pƒ‚É‚È‚è‚Ü‚·B
+æœ¬ãƒžã‚¯ãƒ­ã§ã¯åŒä¸€ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚­ãƒ¼ã§ã€Œã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²ä¸Šä¸‹ãƒ»ã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²å·¦å³ã€ã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹ã“ã¨ãŒå‡ºæ¥ã¾ã™ã€‚
+ãã®ãŸã‚ã€ã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²ã®æ“ä½œãŒã‚ˆã‚Šå˜ç´”ã«ãªã‚Šã¾ã™ã€‚
 
-# “®ì
-–{ƒ}ƒNƒ‚ð‹N“®‚·‚é“x‚ÉƒEƒCƒ“ƒhƒE•ªŠ„•ûŒü‚ªˆÈ‰º‚Ì‚æ‚¤‚É•Ï‚í‚è‚Ü‚·B
-•ªŠ„–³‚µ¨ã‰º•ªŠ„¨¶‰E•ªŠ„¨•ªŠ„–³‚µ¨ã‰º•ªŠ„¨EEE
+# å‹•ä½œ
+æœ¬ãƒžã‚¯ãƒ­ã‚’èµ·å‹•ã™ã‚‹åº¦ã«ã‚¦ã‚¤ãƒ³ãƒ‰ã‚¦åˆ†å‰²æ–¹å‘ãŒä»¥ä¸‹ã®ã‚ˆã†ã«å¤‰ã‚ã‚Šã¾ã™ã€‚
+åˆ†å‰²ç„¡ã—â†’ä¸Šä¸‹åˆ†å‰²â†’å·¦å³åˆ†å‰²â†’åˆ†å‰²ç„¡ã—â†’ä¸Šä¸‹åˆ†å‰²â†’ãƒ»ãƒ»ãƒ»
 
-## “®ìƒCƒ[ƒW
+## å‹•ä½œã‚¤ãƒ¡ãƒ¼ã‚¸
 ### cmd_switch_window_split.mac
-![switch](switch.gif "ƒEƒCƒ“•ªŠ„Ø‚è‘Ö‚¦")
+![switch](switch.gif "ã‚¦ã‚¤ãƒ³åˆ†å‰²åˆ‡ã‚Šæ›¿ãˆ")
 
 ### cmd_switch_window_split_reverse.mac
-![switch_reverse](switch_reverse.gif "ƒEƒCƒ“•ªŠ„Ø‚è‘Ö‚¦i‹t‡j")
+![switch_reverse](switch_reverse.gif "ã‚¦ã‚¤ãƒ³åˆ†å‰²åˆ‡ã‚Šæ›¿ãˆï¼ˆé€†é †ï¼‰")
 
-# ƒ}ƒNƒ‚Ì“±“ü•û–@‚Æ—˜—p•û–@
-- macroƒtƒHƒ‹ƒ_’†‚Ì‘Sƒtƒ@ƒCƒ‹‚ðGŠÛƒGƒfƒBƒ^‚Ìƒ}ƒNƒƒtƒ@ƒCƒ‹—p‚ÌƒtƒHƒ‹ƒ_‚ÉƒRƒs[‚µ‚Ä‚­‚¾‚³‚¢B
-- cmd_switch_window_split.mac‚Æcmd_switch_window_split_reverse.mac ƒ}ƒNƒ‚ÉƒVƒ‡[ƒgƒJƒbƒgƒL[‚ðŠ„‚è“–‚Ä‚Ä‚²Žg—p‰º‚³‚¢B
+# ãƒžã‚¯ãƒ­ã®å°Žå…¥æ–¹æ³•ã¨åˆ©ç”¨æ–¹æ³•
+- macroãƒ•ã‚©ãƒ«ãƒ€ä¸­ã®å…¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç§€ä¸¸ã‚¨ãƒ‡ã‚£ã‚¿ã®ãƒžã‚¯ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ç”¨ã®ãƒ•ã‚©ãƒ«ãƒ€ã«ã‚³ãƒ”ãƒ¼ã—ã¦ãã ã•ã„ã€‚
+- cmd_switch_window_split.macã¨cmd_switch_window_split_reverse.mac ãƒžã‚¯ãƒ­ã«ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚­ãƒ¼ã‚’å‰²ã‚Šå½“ã¦ã¦ã”ä½¿ç”¨ä¸‹ã•ã„ã€‚
 
-## ƒVƒ‡[ƒgƒJƒbƒgƒL[Š„‚è“–‚Ä‚Ì—á
-|ƒtƒ@ƒCƒ‹–¼|ƒVƒ‡[ƒgƒJƒbƒgƒL[‚Ì—á|
+## ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚­ãƒ¼å‰²ã‚Šå½“ã¦ã®ä¾‹
+|ãƒ•ã‚¡ã‚¤ãƒ«å|ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚­ãƒ¼ã®ä¾‹|
 |:---|:---|
 |cmd_switch_window_split.mac|Alt+W|
 |cmd_switch_window_split_reverse.mac|Alt+Shift+W|
 
-# ƒtƒ@ƒCƒ‹ˆê——
-|ƒtƒ@ƒCƒ‹–¼|à–¾|
+# ãƒ•ã‚¡ã‚¤ãƒ«ä¸€è¦§
+|ãƒ•ã‚¡ã‚¤ãƒ«å|èª¬æ˜Ž|
 |:---|:---|
-|cmd_switch_window_split.mac|•ªŠ„•ûŒü‚ðØ‚è‘Ö‚¦‚éƒ}ƒNƒ|
-|cmd_switch_window_split_reverse.mac|•ªŠ„•ûŒü‚ð‹t‡‚ÉØ‚è‘Ö‚¦‚éƒ}ƒNƒ|
+|cmd_switch_window_split.mac|åˆ†å‰²æ–¹å‘ã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹ãƒžã‚¯ãƒ­|
+|cmd_switch_window_split_reverse.mac|åˆ†å‰²æ–¹å‘ã‚’é€†é †ã«åˆ‡ã‚Šæ›¿ãˆã‚‹ãƒžã‚¯ãƒ­|
 
+# å‹•ä½œç’°å¢ƒ
+ç§€ä¸¸ã‚¨ãƒ‡ã‚£ã‚¿ ver 8.00ä»¥é™
 
-# ˜A—æ
+# é€£çµ¡å…ˆ
 <http://d.hatena.ne.jp/ohtorii/> <br>
 <https://twitter.com/ohtorii>
